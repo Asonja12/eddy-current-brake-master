@@ -19,7 +19,7 @@ The goal of this project is to predict the braking torque based on various input
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/adelekecode/eddy-current-brake.git
+    git clone https://github.com/Asonja12/eddy-current-brake-master.git
     cd eddy-current-brake
     ```
 
